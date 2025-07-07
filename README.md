@@ -1,11 +1,11 @@
-ТЕОРИЯ ТЕСТИРОВАНИЯ
+## ТЕОРИЯ ТЕСТИРОВАНИЯ ##
 
-Определение методов, типов и уровней тестирования для проекта "Интернет-магазин"
+Определил методы, типы и уровни тестирования для проекта "Интернет-магазин"
 
-https://docs.google.com/spreadsheets/d/1CQPt_rxjI9DD5xDTiPRDwp-THZv3MjGNfJFZFAoa3U0/edit?gid=1477428292#gid=1477428292
+[Ссылка на документ](https://docs.google.com/spreadsheets/d/1CQPt_rxjI9DD5xDTiPRDwp-THZv3MjGNfJFZFAoa3U0/edit?gid=1477428292#gid=1477428292)
 
-АНАЛИЗ ТРЕБОВАНИЙ И МАКЕТА
+## АНАЛИЗ ТРЕБОВАНИЙ И МАКЕТА ##
 
-Анализ требований для проекта "Интернет-магазин"
+Провел анализ требований для проекта "Интернет-магазин"
 
-https://docs.google.com/spreadsheets/d/1ZlbB5vKdsO3GQBl9__wLag7q1P5socDbQNY0vYGHOH0/edit?usp=sharing
+[Ссылка на документ](https://docs.google.com/spreadsheets/d/1ZlbB5vKdsO3GQBl9__wLag7q1P5socDbQNY0vYGHOH0/edit?usp=sharing)
